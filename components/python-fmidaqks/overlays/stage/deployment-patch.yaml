@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.8
+      - image: nexus-docker-nexus.apps.cluster-t98q8.t98q8.sandbox2574.opentlc.com/tssc_qe/python-fmidaqks:ee51bdae4ec20adbc67144a8ded2f68b75e818e5@sha256:a66d22a70c5db845afbe0b8ed70e16ec1e8e17a1bd02e7d4ac5d89b872d9c4d3
         name: container-image  
